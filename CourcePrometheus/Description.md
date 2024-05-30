@@ -1,6 +1,6 @@
 
 Git \
-Курс от Богдана Стащука коротко и по делу с примерами
+Курс от Богдана Стащука коротко и по делу с примерами\
 (https://www.facebook.com/BogdanStashchuk)\
 1.
 https://www.udemy.com/course/git-github-ru/
